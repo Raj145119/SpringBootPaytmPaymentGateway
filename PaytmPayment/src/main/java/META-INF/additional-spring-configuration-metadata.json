@@ -1,0 +1,47 @@
+{"properties": [
+  {
+    "name": "paytm.email",
+    "type": "java.lang.String",
+    "description": "A description for 'paytm.email'"
+  },
+  {
+    "name": "paytm.mobile",
+    "type": "java.lang.String",
+    "description": "A description for 'paytm.mobile'"
+  },
+  {
+    "name": "paytm.payment",
+    "type": "java.lang.String",
+    "description": "A description for 'paytm.payment'"
+  },
+  {
+    "name": "paytm.payment",
+    "type": "java.lang.String",
+    "description": "A description for 'paytm.payment'"
+  },
+  {
+    "name": "merchantId",
+    "type": "java.lang.String",
+    "description": "A description for 'merchantId'"
+  },
+  {
+    "name": "merchantKey",
+    "type": "java.lang.String",
+    "description": "A description for 'merchantKey'"
+  },
+  {
+    "name": "callbackUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'callbackUrl'"
+  },
+  {
+    "name": "sandbox",
+    "type": "java.lang.String",
+    "description": "A description for 'sandbox'"
+  },
+  {
+    "name": "paytm.callbackUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'paytm.callbackUrl'"
+  }
+]}
